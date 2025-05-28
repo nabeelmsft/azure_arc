@@ -6,7 +6,7 @@
       "value": "Standard_D8s_v5"
     },
     "vmName": {
-      "value": "AKS-EE-Win-Demo"
+      "value": "AKS-EE-Demo"
     },
     "kubernetesDistribution": {
       "value": "k3s"
